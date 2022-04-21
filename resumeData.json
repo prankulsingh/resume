@@ -2,7 +2,7 @@
   "main": {
     "name":"Prankul Singh",
     "occupation":"Software Engineer",
-    "description":"I am a driven individual with the ability to adapt to any situation and proven potential to grow self and others. I have 2.5 years of experience as backend developer in Airtel X Labs and have worked on projects which impact millions of people everyday.",
+    "description":"I am a driven individual with the ability to adapt to any situation and proven potential to grow self and others. I have 3 years of experience as backend developer in Airtel X Labs and have worked on projects which impact millions of people everyday. Currently working with Directi to make the world more secure with Identity and Access Management",
     "image":"profilepic.jpg",
     "bio":"As a software engineer, I like solving problems. Sometimes the solutions are not really obvious, but finding the most optimized solution for them gives me the thrill. I professionally use Java with Spring Boot but on a personal level, to automate stuff etc., I also use python. I am a driven individual with the ability to adapt to any situation.",
     "contactmessage":null,
@@ -69,9 +69,15 @@
     ],
     "work":[
       {
+        "company":"Zeta | Directi",
+        "title":"Software Engineer 2",
+        "years":"May 2021 - Present",
+        "description":null
+      },
+      {
         "company":"Airtel X Labs",
         "title":"Senior Software Engineer",
-        "years":"June 2020 - Present",
+        "years":"June 2020 - May 2021",
         "description":null
       },
       {
@@ -92,6 +98,10 @@
       },
       {
         "name":"Mongo DB",
+        "level":"70%"
+      },
+      {
+        "name":"PostgreSQL",
         "level":"80%"
       },
       {
