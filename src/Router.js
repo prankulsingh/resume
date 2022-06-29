@@ -1,5 +1,5 @@
 import React from "react";
-import {HashRouter as Router, Switch, Route} from "react-router-dom";
+import {BrowserRouter as Router, Switch, Route} from "react-router-dom";
 import App from "./App";
 
 export default function PageRouter() {
