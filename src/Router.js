@@ -12,6 +12,9 @@ export default function PageRouter() {
                 <Route path="/meet">
                     <OpenMeeting url = "https://meet.google.com/hih-zjrs-was"/>
                 </Route>
+                <Route path="personal/meet">
+                    <OpenMeeting url = "https://meet.google.com/kkd-jgrt-rne"/>
+                </Route>
             </Switch>
         </Router>
     );
